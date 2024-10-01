@@ -1,0 +1,15 @@
+Moscow 55.7558 37.6178
+SaintPetersburg 59.9500 30.3167
+Novosibirsk 55.0333 82.9167
+Yekaterinburg 56.8356 60.6128
+NizhniyNovgorod 56.3269 44.0075
+Kazan 55.7964 49.1089
+Chelyabinsk 55.1500 61.4000
+Omsk 54.9667 73.3833
+Samara 53.2028 50.1408
+Rostov 47.2333 39.7000
+Ufa 54.7261 55.9475
+Krasnoyarsk 56.0089 92.8719
+Voronezh 51.6717 39.2106
+Perm 58.0139 56.2489
+Volgograd 48.7086 44.5147
